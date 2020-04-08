@@ -2,10 +2,9 @@
 	"portraits":{
 		"standard_male":[
 			"graphics/portraits/trainer_sakaki.png",
-			"graphics?portraits/trainer_leader2.png",
 		],
 		"standard_female":[
-			"graphics/portraits/trainer_shiron.png",
+
 		],
 	},
 },				
