@@ -1,10 +1,8 @@
 {
 	"portraits":{
 		"standard_male":[
-			"graphics/portraits/trainer_toya.png",
 			"graphics/portraits/trainer_yuki.png",
 			"graphics/portraits/trainer_jun.png",
-			"graphics/portraits/trainer_calme.png",
 			"graphics/portraits/trainer_hau.png",
 			"graphics/portraits/trainer_red.png",
 			"graphics/portraits/trainer_generic.png",
@@ -12,7 +10,6 @@
 			
 		],
 		"standard_female":[
-			"graphics/portraits/trainer_toko.png",
 			"graphics/portraits/trainer_mao.png",
 			"graphics/portraits/trainer_huuro.png",
 			"graphics/portraits/trainer_kotone.png",
@@ -20,7 +17,7 @@
 			"graphics/portraits/trainer_generic2.png",
 			"graphics/portraits/trainer_generic3.png",
 			"graphics/portraits/trainer_mei.png",
-			"graphics/portraits/trainer_kasumi.png'
+			"graphics/portraits/trainer_kasumi.png",
 		],
 	},
 },							

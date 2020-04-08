@@ -1,14 +1,14 @@
 
 {
 	"portraits":{
-		"standard_male":[,
+		"standard_male":[
 			"graphics/portraits/trainer_yuki.png",
 			"graphics/portraits/trainer_jun.png",
 			"graphics/portraits/trainer_hau.png",
 			"graphics/portraits/trainer_generic.png",
-			
+			"graphics/portraits/trainer_green.png",
 		],
-		"standard_female":[,
+		"standard_female":[
 			"graphics/portraits/trainer_mao.png",
 			"graphics/portraits/trainer_generic1.png",
 			"graphics/portraits/trainer_generic2.png",

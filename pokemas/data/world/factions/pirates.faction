@@ -1,10 +1,10 @@
 {
 	"portraits":{
 		"standard_male":[
-			
+
 		],
 		"standard_female":[
-			"graphics/portraits/"trainer_higana.png",
+			"graphics/portraits/trainer_higana.png",
 		],
 	},
 },				
