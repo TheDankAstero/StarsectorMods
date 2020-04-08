@@ -1,0 +1,14 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/trainer_toya.png",
+			"graphics/portraits/trainer_yuki.png",
+			"graphics/portraits/trainer_jun.png",
+		],
+		"standard_female":[
+			"graphics/portraits/trainer_toko.png",
+			"graphics/portraits/trainer_mao.png",
+			"graphics/portraits/trainer_huuro.png",
+		],
+	},
+},				

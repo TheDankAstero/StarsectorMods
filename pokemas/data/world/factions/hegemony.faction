@@ -1,0 +1,10 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/trainer_green.png",
+		],
+		"standard_female":[
+			"graphics/portraits/trainer_leaf.png",
+		],
+	},
+},				
