@@ -3,6 +3,8 @@
 	"name":"Pokemon Masters Portraits Pack", # displayed to the player
 	"author":"The_Dank_Astero",
 	"version":"1.0",
-	"description":"Adds 29 pokemon trainer portraits.",
+	"description":"Adds 29 pokemon trainer portraits.
+
+Update 1.1: added more portraits, and NPCs are more likely to display different portraits",
 	"gameVersion":"0.9.1a",
 }
