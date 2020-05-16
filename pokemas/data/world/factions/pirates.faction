@@ -1,7 +1,7 @@
 {
 	"portraits":{
 		"standard_male":[
-
+			"graphics/portraits/trainer_shilver.png",
 		],
 		"standard_female":[
 			"graphics/portraits/trainer_higana.png",

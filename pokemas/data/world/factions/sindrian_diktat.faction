@@ -2,6 +2,7 @@
 	"portraits":{
 		"standard_male":[
 			"graphics/portraits/trainer_sakaki.png",
+			"graphics/portraits/trainer_leader2.png",
 		],
 		"standard_female":[
 

@@ -2,7 +2,7 @@
 	"id":"pokemasportraitpack", # internal id
 	"name":"Pokemon Masters Portraits Pack", # displayed to the player
 	"author":"The_Dank_Astero",
-	"version":"1.1.0",
+	"version":"1.2.0",
 	"description":"Adds 35 pokemon trainer portraits.",
 	"gameVersion":"0.9.1a",
 }
