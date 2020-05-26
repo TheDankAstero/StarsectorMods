@@ -2,7 +2,7 @@
 	"id":"pokemasportraitpack", # internal id
 	"name":"Pokemon Masters Portraits Pack", # displayed to the player
 	"author":"The_Dank_Astero",
-	"version":"1.2.0",
-	"description":"Adds 35 pokemon trainer portraits.",
+	"version":"1.3.0",
+	"description":"Adds 51 portraits from the mobile gacha Pokemon Masters.",
 	"gameVersion":"0.9.1a",
 }
